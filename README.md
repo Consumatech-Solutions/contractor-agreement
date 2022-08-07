@@ -4,18 +4,18 @@ This agreement is a work in progress document which will be extended by consumat
 ## Content
 * [1 Characteristics of partnership](#1-characteristics-of-partnership)
 * [2 Purpose of agreement](#2-purpose-of-agreement)
+* [3 Terms](#3-terms)
 * [4 Roles during a project](#4-roles)
-* [5 Inquiry for a potential project](#5-inquiry)
-* [6 Collaboration during project](#6-collaboration)
-* [7 Availability during the project](#7-availability)
-* [8 Reliability](#8-reliability)
-* [9 Connectivity](#9-connectivity)
-* [10 Video Calls & Meetings](#10-calls)
-* [11 Quarterly review meetings](#11-review-meetings)
-* [12 Complaints and dispute resolution process](#12-complaints)
-* [13 Payment](#13-payment)
-* [14 Project completion](#14-completion)
-* [15 Copyright](#15-copyright)
+* [5 Collaboration during project](#5-collaboration)
+* [6 Availability during the project](#6-availability)
+* [7 Reliability](#7-reliability)
+* [8 Connectivity](#8-connectivity)
+* [9 Video Calls & Meetings](#9-calls)
+* [10 Quarterly review meetings](#10-review-meetings)
+* [11 Complaints and dispute resolution process](#11-complaints)
+* [12 Payment](#12-payment)
+* [13 Project completion](#13-completion)
+* [14 Copyright](#14-copyright)
 
 
 
@@ -39,15 +39,7 @@ For each project the following roles need to be staffed and communicated:
 * Consumatech tech-lead: scoping, team-sourcing and contact for all technical questions 
 * Software Developer: engineer which is working on the project
 
-## 5 Inquiry for a potential project <a name="5-inquiry"></a>
-* Consumatech sends a resource request containing information about time planning, required tech stacks, professional level, and availability (half-day or full-day)
-* Capacity & availability check should be answered within 48 hours after inquiry
-* If an availability check is not possible within 48 hours, it should be clarified and communicated to the Consumatech team by setting a new deadline
-* The Consumatech tech-lead will first interview available developers
-* The second interview will be with a Consumatech manager and the client
-* Inquiry is a sign of interest but does not necessarily lead to a project
-
-## 6 Collaboration during project <a name="6-collaboration"></a>
+## 5 Collaboration during project <a name="6-collaboration"></a>
 * Each project begins with a dedicated kick-off meeting together with the Consumatech tech-lead, the partner-lead and the dedicated software developer 
 * We work agile with sprints; during the kick-off meeting, we define working hours, absence time and the length of the sprint
 * We communicate via mail and slack
@@ -56,7 +48,7 @@ For each project the following roles need to be staffed and communicated:
 * On the last day of the month or after a project is finished: update your task sheet with tasks including the points given
 * After updating the task sheet, send a notification to your responsible tech-lead
 
-## 7 Availability during the project <a name="7-availability"></a>
+## 6 Availability during the project <a name="7-availability"></a>
 * General availability, (national) holidays, parental leave, planned or likely medical absences and planned or likely vacation days need to be communicated in the project kick-off. That means that the developer and the partner-lead need to jointly prepare a list of all those events before the project kick-off. In the weekly status meetings the developer needs to ensure to communicate any updates regarding these events. Failure to communicate updates about these events can have severe consequences for the relationship to the client. Therefore it is important that this obligation for updates is taken very seriously
 * Emergencies like funerals, unplanned child-care, or sickness need to be reported on the same day  
 * Consumatech project manager schedules a weekly status update (10 minutes) with developer to receive feedback and guarantee availability 
@@ -66,20 +58,20 @@ For each project the following roles need to be staffed and communicated:
 * Working on other projects is only permissible with explicit permission by Consumatech tech-lead
 
 
-## 8 Reliability  <a name="8-reliability"></a>
+## 7 Reliability  <a name="8-reliability"></a>
 * Clients expect professional and reliable partners. That's why it is very important to be on time at every meeting. If we can't be on time we need to inform the partner before
 * Daily achievements and blocker needs to be communicated to the tech-lead via slack
 
-## 9 Connectivity <a name="9-connectivity"></a>
+## 8 Connectivity <a name="9-connectivity"></a>
 * During your work, you need to have an internet speed minimum of 10 Mbps (downloading & uploading) to guarantee a stable connection during video calls 
 * The tech-lead needs to be informed if the minimum connectivity standards can not be reached 
 
-## 10 Video Calls & Meetings <a name="#10-calls"></a>
+## 9 Video Calls & Meetings <a name="#10-calls"></a>
 * Make sure to show a neutral background
 * All team members choose silent places with no background noise
 * Usage of basic headphones is required
 
-## 11 Quarterly review meetings <a name="11-review-meetings"></a>
+## 10 Quarterly review meetings <a name="11-review-meetings"></a>
 Agreement on quarterly review meetings with an open feedback culture. 
 Structure of the review meeting:
 * Recap of last review meeting
@@ -88,13 +80,14 @@ Structure of the review meeting:
 * What is not going well and why?
 * What needs to change?
 
-## 12 Complaints and dispute resolution process <a name="13-complaints"></a>
+## 11 Complaints and dispute resolution process <a name="13-complaints"></a>
 * Approach us if someone is not happy with the situation, with how the project is going or if there is critical feedback 
 * Conflicts should be solved on eye level and out of court
 * If both partners do not find a solution, a mediator will be installed to solve the conflict
 
-## 13 Payment <a name="14-payment"></a>
-* The hourly rate will be defined during the inquiry process
+## 12 Payment <a name="14-payment"></a>
+* For a base salary, software engineers are expected to complete at least 16 points worth of tasks on Pivotal Tracker (PT) board
+* An addition fee will be added for extra points completed in the month.
 * The occurrence of the invoice: monthly basis
 * Invoice us every month for hours you worked
 * Send the invoice and a time sheet to the tech lead & cc Olatoye
@@ -112,11 +105,11 @@ Please consider the following points before creating the invoice:
 8. The amount due for the delivered products or services.
 9. Add the following sentence: "The invoice amount is stated without VAT, as the reverse charge procedure applies in this case."
 
-## 14 Project completion <a name="15-completion"></a>
+## 13 Project completion <a name="15-completion"></a>
 * Consumatech tech-lead informs software developer and partner manager about the day of project completion and schedules a meeting to finalize the project
 * After the project, the copyright will be owned by Consumatech only
 * The code and all other data referring to the project need to be deleted
 
-## 16 Copyright <a name="16-copyright"></a>
+## 14 Copyright <a name="16-copyright"></a>
 * Both partners agree on the NDA to protect any confidential and proprietary information 
 * Only use open-source software packages (dependencies) with one of the following licenses mentioned in the OpenSource Licenses Whitelist: https://docs.google.com/document/d/1-G2MEXpVKXKv3H74VPjIYfRshTll176uhYQ5iiwR2Z4/edit
